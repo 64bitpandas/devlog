@@ -79,6 +79,16 @@ Self-hosting has a variety of benefits, mostly in exchange for the cost (monetar
 * **Have a cool hobby:** Running a server can be pretty fun and rewarding, just like other hobbies where you make stuff! Even if you somehow don't find something super useful to host, it's quite satisfying to tinker around and get things to work.
     
 
+## Homelabbing is Not Cloud Computing
+
+I've been throwing around the term "homelab" a bit. It's not exactly an official term, but it's been adopted to mean any server where the hardware exists in your home or another physical location you control. ([Here's an article](https://linuxhandbook.com/homelab/) that reiterates this, with some extra info.)
+
+Homelabbing is the form of self-hosting that I'll focus on, since it's what I do- but there are plenty of other methods of running your own services to choose from.
+
+A popular choice is to buy a VPS (Virtual Private Server) or VM from a provider online, such as DigitalOcean or Linode. This allows you to install and run whatever software you want, while not having the hassle of needing to manage the hardware itself. If you choose to do this, skip directly to Part 3.
+
+Another alternative, which is more popular in corporate settings, is the [serverless](https://aws.amazon.com/serverless/) approach, in which you only manage your application, and all of the server configuration is left to the provider. Common serverless providers include AWS, GCP, and Azure. I would *not* recommend this for personal setups, since it can get really expensive for personal use and doesn't provide the benefit of helping you understand how servers work.
+
 ## Introducing TurtleNet
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673740486045/08cdb443-459e-48b3-b031-defa48f93f55.png align="center")
