@@ -71,9 +71,9 @@ Chances are that passthrough didn't work the first time around. (It didn't for m
     2. If your output does not look like the above (might have more things under the "PCI Bus 0000:06"), run the following code block, replacing `XX` with the desired ID:
         
         ```bash
-             	echo 1 > /sys/bus/pci/devices/0000\:XX\:00.0/remove \
-        		echo 1 > /sys/bus/pci/rescan
-        		echo simple-framebuffer.0 > /sys/bus/platform/drivers/simple-framebuffer/unbind
+        echo 1 > /sys/bus/pci/devices/0000\:XX\:00.0/remove \
+        echo 1 > /sys/bus/pci/rescan
+        echo simple-framebuffer.0 > /sys/bus/platform/drivers/simple-framebuffer/unbind
         ```
         
         You may need to run this every time the server reboots.
