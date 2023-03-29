@@ -2,7 +2,7 @@
 title: "TurtleNet 2: Getting Started with Proxmox"
 datePublished: Wed Mar 29 2023 06:13:50 GMT+0000 (Coordinated Universal Time)
 cuid: clftak0qs001209micbxf6dbp
-slug: turtlenet-2-getting-started-with-proxmox
+slug: 2-proxmox
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680069730735/138c2f40-cc78-4855-9eb6-02b238e40a09.png
 tags: server-hosting, self-hosted, homelab, proxmox
 
