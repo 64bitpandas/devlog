@@ -1,5 +1,5 @@
 ---
-title: "TurtleNet 2.5: GPU Passthrough w      ith Proxmox"
+title: "TurtleNet 2.5: GPU Passthrough with Proxmox"
 datePublished: Wed Mar 29 2023 06:46:23 GMT+0000 (Coordinated Universal Time)
 cuid: clftbpvfh00010ajt3gkt536n
 slug: 25-gpu-passthrough
