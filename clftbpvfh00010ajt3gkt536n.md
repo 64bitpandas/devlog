@@ -1,8 +1,8 @@
 ---
-title: "TurtleNet 2.5: GPU Passthrough"
+title: "TurtleNet 2.5: GPU Passthrough With Proxmox"
 datePublished: Wed Mar 29 2023 06:46:23 GMT+0000 (Coordinated Universal Time)
 cuid: clftbpvfh00010ajt3gkt536n
-slug: turtlenet-25-gpu-passthrough
+slug: turtlenet-25-gpu-passthrough-with-proxmox
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680071777270/981ec289-be46-476b-9d75-8db880ee6db3.png
 tags: self-hosted, gpu, homelab, proxmox
 
