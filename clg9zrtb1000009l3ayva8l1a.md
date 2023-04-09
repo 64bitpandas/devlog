@@ -2,7 +2,7 @@
 title: "TurtleNet 3: ZeroTier and Private Networking"
 datePublished: Sun Apr 09 2023 22:44:03 GMT+0000 (Coordinated Universal Time)
 cuid: clg9zrtb1000009l3ayva8l1a
-slug: turtlenet-3-zerotier-and-private-networking
+slug: 3-zerotier
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681080174083/cbf258f7-613b-4403-8de7-91d5ccbbe642.png
 tags: server, self-hosted, homelab, zerotier
 
